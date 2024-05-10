@@ -13,3 +13,4 @@ This repo was created for an example of apple-app-site-association file.
     ]
   }
 }
+
